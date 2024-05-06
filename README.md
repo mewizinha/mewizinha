@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seja bem-vindo(a) ao meu perfil! 🧡🦋
 
-<!--
-**mewizinha/mewizinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Podem me chamar de **Mewi** 🦊
 
-Here are some ideas to get you started:
+_Eu sou estudante do alura_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Estou me desenvolvendo na linguagem JavaScript_ ✨
+
+_Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos_ ✨
+
+### Você entra em contato comigo 📧
+00001105419459SP@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/hermione-granger-gif-20747289)
